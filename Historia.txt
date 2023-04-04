@@ -6,4 +6,7 @@ Esta es su historia
 
 Le gusta el pornito y es bien guarro
 
-ESTE EL PARRAFO QUE SOLO SE ENCUENTRA EN MASTER
+Este el archio para cabecera
+
+Este es un cambio nuevo de cabecera con un nuevo commit
+>>>>>>> cabecera
