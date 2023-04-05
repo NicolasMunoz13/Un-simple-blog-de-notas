@@ -10,3 +10,5 @@ Este el archio para cabecera
 
 Este es un cambio nuevo de cabecera con un nuevo commit
 >>>>>>> cabecera
+
+Este el commit para header
